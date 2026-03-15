@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5767ef011d4b2194e86712bf5ad9f878
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/Flashlight/Materials/Flashlight.mat
+  uploadId: 760615

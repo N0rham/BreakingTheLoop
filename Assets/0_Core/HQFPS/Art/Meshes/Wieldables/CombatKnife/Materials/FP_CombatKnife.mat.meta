@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 025a11ccff09a9045aa31038a5ed45b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/CombatKnife/Materials/FP_CombatKnife.mat
+  uploadId: 760615

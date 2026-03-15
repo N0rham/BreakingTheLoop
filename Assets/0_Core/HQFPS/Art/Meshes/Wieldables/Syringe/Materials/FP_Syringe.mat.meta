@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf9a79213a68e064281d48e9e26173ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/Syringe/Materials/FP_Syringe.mat
+  uploadId: 760615
