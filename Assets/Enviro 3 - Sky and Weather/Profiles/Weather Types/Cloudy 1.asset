@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cbac6e678443724c9bd2baf5d564c1d, type: 3}
   m_Name: Cloudy 1
   m_EditorClassIdentifier: 
-  showEditor: 0
+  showEditor: 1
   showEffectControls: 0
-  showCloudControls: 1
+  showCloudControls: 0
   showFlatCloudControls: 0
   showFogControls: 0
   showSkyControls: 0
@@ -27,7 +27,7 @@ MonoBehaviour:
   showLightningControls: 0
   cloudsOverride:
     ambientLightIntensity: 1
-    coverage: 0.27
+    coverage: 0.3
     dilateCoverage: 0.75
     dilateType: 0
     typeModifier: 0.901
@@ -51,8 +51,8 @@ MonoBehaviour:
     curlIntensity: 0.757
     bottomShape: -0.1
     midShape: -1.48
-    topShape: -4.35
-    topLayer: 0
+    topShape: 5
+    topLayer: 0.27
     rampShape: 0.85
     baseNoiseUVMultiplier: 0.89
     detailNoiseUVMultiplier: 1.12
@@ -83,7 +83,7 @@ MonoBehaviour:
     fogHeightFalloff2: 0.0388
     fogHeight2: 0
     fogColorBlend: 0.5
-    fogColorMod: {r: 1, g: 1, b: 1, a: 1}
+    fogColorMod: {r: 0.19842473, g: 0.34691393, b: 0.46226418, a: 1}
     scattering: 0.28
     extinction: 0.02
     anistropy: 0.19

@@ -16,23 +16,23 @@ MonoBehaviour:
   showSaveLoad: 0
   active: 1
   Settings:
-    simulate: 0
+    simulate: 1
     secSerial: 0
     minSerial: 0
-    hourSerial: 7
+    hourSerial: 21
     daySerial: 15
-    monthSerial: 11
-    yearSerial: 2025
-    timeOfDay: 7
+    monthSerial: 3
+    yearSerial: 2027
+    timeOfDay: 21
     latitude: 0
     longitude: 0
     utcOffset: 0
     cycleLengthInMinutes: 10
     dayLengthModifier: 1
     nightLengthModifier: 1
-    calenderType: 0
-    daysInMonth: 10
-    monthsInYear: 4
+    calenderType: 1
+    daysInMonth: 31
+    monthsInYear: 12
     customSunOffset: -8
     customSunRotation: 88
   preset: {fileID: 0}

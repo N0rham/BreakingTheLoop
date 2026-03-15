@@ -118,7 +118,7 @@ MonoBehaviour:
     flatCloudsLightIntensity: 1.014
     flatCloudsAmbientIntensity: 1.05
     flatCloudsShadowIntensity: 0.6
-    flatCloudsShadowSteps: 8
+    flatCloudsShadowSteps: 6
     flatCloudsHGPhase: 0.8
     flatCloudsCoverage: 1.287
     flatCloudsDensity: 1
@@ -131,9 +131,9 @@ MonoBehaviour:
   preset: {fileID: 11400000, guid: 0fcdd472bd6a8ec429fc1e9bc978c4fa, type: 2}
   showCirrusCloudsControls: 0
   show2DCloudsControls: 0
-  cloudFlatBaseAnim: {x: -0.7247524, y: -0.08556749}
-  cloudFlatDetailAnim: {x: 0.16411814, y: 0.087906055}
-  cirrusAnim: {x: -0.5210882, y: 0.092469424}
+  cloudFlatBaseAnim: {x: 0.54771245, y: -0.8553722}
+  cloudFlatDetailAnim: {x: 0.5236905, y: 0.24144389}
+  cirrusAnim: {x: 0.11515003, y: -0.29246727}
 --- !u!114 &-6613759932185320841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3ccdfb360c52f049bf71126aa74826f, type: 3}
   m_Name: Weather Module
   m_EditorClassIdentifier: 
-  showModuleInspector: 0
+  showModuleInspector: 1
   showSaveLoad: 0
   active: 1
   Settings:
@@ -214,7 +214,7 @@ MonoBehaviour:
     audioTransitionSpeed: 1
   preset: {fileID: 11400000, guid: 8c4e279017d5e44458e3e4663b6ab460, type: 2}
   targetWeatherType: {fileID: 11400000, guid: 6c589d06d1746d04a864437f71d0cc30, type: 2}
-  weatherBlendProgress: 1
+  weatherBlendProgress: 0
   globalAutoWeatherChange: 1
   triggerCollider: {fileID: 0}
   triggerRB: {fileID: 0}
@@ -233,12 +233,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 375eef0084d44344ebf50cbba7c1eadb, type: 3}
   m_Name: Sky Module
   m_EditorClassIdentifier: 
-  showModuleInspector: 0
+  showModuleInspector: 1
   showSaveLoad: 0
   active: 1
   Settings:
     skyMode: 0
-    moonMode: 1
+    moonMode: 0
     forcedSkyboxSetup: 1
     frontColorGradient0:
       serializedVersion: 2
@@ -632,8 +632,8 @@ MonoBehaviour:
       m_NumAlphaKeys: 2
     moonColorGradient:
       serializedVersion: 2
-      key0: {r: 4.237095, g: 4.237095, b: 4.237095, a: 1}
-      key1: {r: 4.237095, g: 4.237095, b: 4.237095, a: 1}
+      key0: {r: 0, g: 0.06021679, b: 0.18867922, a: 1}
+      key1: {r: 0.59735286, g: 0.7961976, b: 1.1206975, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 9.082411, g: 9.082411, b: 9.082411, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -657,7 +657,7 @@ MonoBehaviour:
       atime6: 0
       atime7: 0
       m_Mode: 0
-      m_ColorSpace: -1
+      m_ColorSpace: 0
       m_NumColorKeys: 3
       m_NumAlphaKeys: 2
     moonGlowColorGradient:
@@ -887,7 +887,7 @@ MonoBehaviour:
     sunScale: 7
     moonScale: 7
     mieScatteringMultiplier: 1
-    starsTwinklingSpeed: 0.25
+    starsTwinklingSpeed: 0.3
     moonPhase: 0
     skyExposureHDRP:
       serializedVersion: 2
@@ -916,8 +916,8 @@ MonoBehaviour:
     skyColorTint: {r: 1, g: 1, b: 1, a: 1}
     skyColorExponent: 1.2
   preset: {fileID: 11400000, guid: 44f43418b8d8b8142863e38d1e49e174, type: 2}
-  showSkyControls: 1
-  showSkySunControls: 0
+  showSkyControls: 0
+  showSkySunControls: 1
   showSkyMoonControls: 0
   showSkyStarsControls: 0
   mySkyboxMat: {fileID: 0}
@@ -1513,11 +1513,11 @@ MonoBehaviour:
     simulate: 1
     secSerial: 0
     minSerial: 0
-    hourSerial: 14
-    daySerial: 1
-    monthSerial: 4
-    yearSerial: 2026
-    timeOfDay: 14
+    hourSerial: 17
+    daySerial: 15
+    monthSerial: 3
+    yearSerial: 2027
+    timeOfDay: 17
     latitude: 0
     longitude: 0
     utcOffset: 0
@@ -1525,14 +1525,14 @@ MonoBehaviour:
     dayLengthModifier: 1
     nightLengthModifier: 1
     calenderType: 1
-    daysInMonth: 10
-    monthsInYear: 4
+    daysInMonth: 31
+    monthsInYear: 12
     customSunOffset: -8
     customSunRotation: 88
   preset: {fileID: 11400000, guid: 82acdd278499d74498ad37dd931734d1, type: 2}
-  showTimeControls: 1
+  showTimeControls: 0
   showLocationControls: 0
-  LST: 277.90576
+  LST: 309.7025
 --- !u!114 &1310742743334959994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1549,7 +1549,7 @@ MonoBehaviour:
   showSaveLoad: 0
   active: 1
   Settings:
-    season: 3
+    season: 0
     changeSeason: 1
     springStart: 60
     springEnd: 92
@@ -1691,7 +1691,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    temperature: 4.5698104
+    temperature: 8.049148
     temperatureWeatherMod: 0
     temperatureCustomMod: 0
     temperatureChangingSpeed: 0.1
@@ -1725,11 +1725,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 456bf221b186fde4096dcf2c1841b35a, type: 3}
   m_Name: Quality Module
   m_EditorClassIdentifier: 
-  showModuleInspector: 1
+  showModuleInspector: 0
   showSaveLoad: 0
   active: 1
   Settings:
-    defaultQuality: {fileID: 11400000, guid: 60e887b1524da0a4a8f1318ef102e22a, type: 2}
+    defaultQuality: {fileID: 11400000, guid: ce2712a713d73094fa9c2775886f182d, type: 2}
     Qualities:
     - {fileID: 11400000, guid: a002704085c17f1439758fcee25df529, type: 2}
     - {fileID: 11400000, guid: 2e0aaa075bca92245a9e8300b7eace9c, type: 2}
@@ -1988,9 +1988,9 @@ MonoBehaviour:
         m_PostInfinity: 2
         m_RotationOrder: 4
       maxVolume: 1
-    ambientMasterVolume: 1
-    weatherMasterVolume: 1
-    thunderMasterVolume: 1
+    ambientMasterVolume: 0.3
+    weatherMasterVolume: 0.3
+    thunderMasterVolume: 0.3
   preset: {fileID: 11400000, guid: fac88c4f2c49e2d429d7269d163c9947, type: 2}
   ambientVolumeModifier: 0
   weatherVolumeModifier: 0
@@ -2033,7 +2033,7 @@ MonoBehaviour:
     defaultSkyReflectionTex: {fileID: 0}
   preset: {fileID: 11400000, guid: da668770e38694d49af97ecfd05fd7eb, type: 2}
   showReflectionControls: 1
-  lastReflectionUpdate: 14.025
+  lastReflectionUpdate: 17.025
   lastReflectionUpdatePos: {x: 0, y: 24.1, z: 0}
 --- !u!114 &3171557369469055653
 MonoBehaviour:
@@ -2055,7 +2055,7 @@ MonoBehaviour:
     cloudsWindDirectionYModifier: 1
     windSpeedModifier: 0.05
     windUpwards: 0.025
-    coverage: 0.27
+    coverage: 0.3
     worleyFreq2: 48
     worleyFreq1: 12
     dilateCoverage: 0.75
@@ -2088,8 +2088,8 @@ MonoBehaviour:
     detailNoiseMultiplier: 1
     bottomShape: -0.1
     midShape: -1.48
-    topShape: -4.35
-    topLayer: 0
+    topShape: 5
+    topLayer: 0.27
     cloudTypeShaping: 0.595
     rampShape: 0.85
   settingsGlobal:
@@ -2199,19 +2199,19 @@ MonoBehaviour:
     maxRenderDistance: 70000
     atmosphereColorSaturateDistance: 25000
     ambientLighIntensity: 1
-    cloudShadows: 0
+    cloudShadows: 1
     cloudShadowsIntensity: 1
     cloudsTravelSpeed: 0.01
   settingsQuality:
     volumetricClouds: 1
     lightningSupport: 1
-    variableBottomNoise: 0
-    downsampling: 2
-    stepsLayer1: 128
+    variableBottomNoise: 1
+    downsampling: 1
+    stepsLayer1: 256
     stepsLayer2: 64
     blueNoiseIntensity: 2
-    reprojectionBlendTime: 2
-    lodDistance: 0.6
+    reprojectionBlendTime: 1
+    lodDistance: 1
   preset: {fileID: 11400000, guid: 4b3879673bba3ff488a4b539b4de69b7, type: 2}
   showGlobalControls: 1
   showVolumeSettings: 0
@@ -2220,9 +2220,9 @@ MonoBehaviour:
   showDensityControls: 0
   showTextureControls: 0
   showWindControls: 0
-  cloudAnimLayer1: {x: 0.51151335, y: 0.5838143, z: -0.077838}
+  cloudAnimLayer1: {x: 0.8354891, y: 0.7682674, z: -0.57153434}
   cloudAnimLayer2: {x: -0.4793451, y: 0.47841242, z: 0.015471124}
-  cloudAnimNonScaledLayer1: {x: -0.2466907, y: -2.2218177, z: -66.87839}
+  cloudAnimNonScaledLayer1: {x: -0.03603602, y: -2.4124472, z: -67.95487}
   cloudAnimNonScaledLayer2: {x: -0.001515836, y: 0.0009908647, z: -0.28406617}
   weatherMap: {fileID: 0}
 --- !u!114 &4011421771873438716
@@ -2281,7 +2281,7 @@ MonoBehaviour:
     auroraContrast: 10
     auroraHeight: 20000
     auroraScale: 0.01
-    auroraSteps: 24
+    auroraSteps: 32
     auroraLayer1Settings: {x: 0.1, y: 0.1, z: 0, w: 0.5}
     auroraLayer2Settings: {x: 5, y: 5, z: 0, w: 0.5}
     auroraColorshiftSettings: {x: 0.05, y: 0.05, z: 0, w: 5}
@@ -2308,8 +2308,8 @@ MonoBehaviour:
   active: 1
   Settings:
     volumetrics: 1
-    steps: 32
-    quality: 1
+    steps: 64
+    quality: 2
     scattering: 0.28
     scatteringMultiplier:
       serializedVersion: 2
@@ -2443,10 +2443,12 @@ MonoBehaviour:
       m_NumColorKeys: 6
       m_NumAlphaKeys: 2
   preset: {fileID: 11400000, guid: 6625884995235d049bd7f2f1de182577, type: 2}
-  showFogControls: 1
+  showFogControls: 0
   showVolumetricsControls: 1
   showUnityFogControls: 0
   fogLights:
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
