@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0fa093a37b4819418c2484b970e0b1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Magazines/HQFPS_Pickup_AKM_Magazine_7.62x39mm.prefab
+  uploadId: 760615

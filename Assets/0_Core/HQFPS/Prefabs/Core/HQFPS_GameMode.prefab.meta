@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38a8a5afa8596e54fa1126511127dd17
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Core/HQFPS_GameMode.prefab
+  uploadId: 760615

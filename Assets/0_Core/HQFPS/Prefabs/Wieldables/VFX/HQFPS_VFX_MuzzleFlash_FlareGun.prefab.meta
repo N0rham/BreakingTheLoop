@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a82b534ad68028d448e3b976c048c38d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/VFX/HQFPS_VFX_MuzzleFlash_FlareGun.prefab
+  uploadId: 760615

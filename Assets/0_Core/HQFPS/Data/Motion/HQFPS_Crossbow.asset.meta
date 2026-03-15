@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aaa63d85c5b999140b131fad41477192
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Motion/HQFPS_Crossbow.asset
+  uploadId: 760615

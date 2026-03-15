@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51b12c5aace3ee849a013b833b49cf45
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Props/HQFPS_FireExtinguisher_Kinematic.prefab
+  uploadId: 760615

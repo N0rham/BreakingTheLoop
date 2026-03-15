@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66d2298eb6daadd4a8eef9776ee84ec3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_M1911.prefab
+  uploadId: 760615

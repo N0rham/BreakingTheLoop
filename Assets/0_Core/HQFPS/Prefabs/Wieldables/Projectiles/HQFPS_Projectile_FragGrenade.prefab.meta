@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c92205070d92e30459126b6f5db3890f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Projectiles/HQFPS_Projectile_FragGrenade.prefab
+  uploadId: 760615

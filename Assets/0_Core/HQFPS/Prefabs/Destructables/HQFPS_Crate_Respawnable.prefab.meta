@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 877f14561e615644fbb7ce375c2a8b2f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Destructables/HQFPS_Crate_Respawnable.prefab
+  uploadId: 760615

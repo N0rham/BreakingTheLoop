@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c105cb60fca370c4a895702c0b925a43
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ExteriorPieces/HQFPS_FireRange_FloorPlane3.prefab
+  uploadId: 760615

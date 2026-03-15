@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0947369979a8be9428e8afd6f9808a3a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Props/HQFPS_ExitSign.prefab
+  uploadId: 760615

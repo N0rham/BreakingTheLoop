@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c05e503e2847924483a5e025d5aa5c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_FlareGun.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c4007de4c2bdef148a084759ed8f75d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Fences/HQFPS_MetalFence_Straight_NoPillar.prefab
+  uploadId: 760615

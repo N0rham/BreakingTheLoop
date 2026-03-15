@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d48b43153c8908f43b9485978bbc4b18
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_CombatKnife.prefab
+  uploadId: 760615

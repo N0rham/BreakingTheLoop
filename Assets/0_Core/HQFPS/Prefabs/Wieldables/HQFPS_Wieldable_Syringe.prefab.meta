@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 599a82c8ab65cbd46a10b7cf35da2784
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_Syringe.prefab
+  uploadId: 760615

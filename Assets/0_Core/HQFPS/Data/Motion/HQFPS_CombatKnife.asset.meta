@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41e989a45d4d2e74bb5c9bc82e1fb4eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Motion/HQFPS_CombatKnife.asset
+  uploadId: 760615

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c177b2ba82f96094782b987e3efde889
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Resources/Definitions/Item/HQFPS_Flare
+    Gun.asset
+  uploadId: 760615

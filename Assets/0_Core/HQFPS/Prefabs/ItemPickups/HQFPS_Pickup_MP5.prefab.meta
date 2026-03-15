@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf943c7496fc24740ba188b297fbb936
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_MP5.prefab
+  uploadId: 760615

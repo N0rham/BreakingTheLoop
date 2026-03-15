@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9465e63f237703498a021a7233b32b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_Flashlight.prefab
+  uploadId: 760615

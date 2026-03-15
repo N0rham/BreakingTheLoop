@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3410633f17b9d24a8fa24434802d9d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ExteriorPieces/HQFPS_BulletTrap.prefab
+  uploadId: 760615

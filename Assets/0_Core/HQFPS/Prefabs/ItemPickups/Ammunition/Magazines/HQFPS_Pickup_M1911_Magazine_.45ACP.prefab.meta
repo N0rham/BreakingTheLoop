@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c89b2fb1f6fdfa24a99e3c817e60191d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Magazines/HQFPS_Pickup_M1911_Magazine_.45ACP.prefab
+  uploadId: 760615

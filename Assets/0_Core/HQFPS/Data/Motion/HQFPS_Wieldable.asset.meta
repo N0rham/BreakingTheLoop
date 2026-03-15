@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6baec1bb315182439eab4e862dd566e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Motion/HQFPS_Wieldable.asset
+  uploadId: 760615

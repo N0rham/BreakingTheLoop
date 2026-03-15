@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ff9727084dc25d4c80cbb85d6d4240e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Scripts/Runtime/DebrisFader.cs
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 230c4ede146bcdf48865396c7ecc6aef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Bullets/HQFPS_Pickup_45ACP.prefab
+  uploadId: 760615

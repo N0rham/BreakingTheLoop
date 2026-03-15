@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc48e47d07f11e040943ceec257084bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/InteriorPieces/HQFPS_FireRange_CeillingAlarm1.prefab
+  uploadId: 760615

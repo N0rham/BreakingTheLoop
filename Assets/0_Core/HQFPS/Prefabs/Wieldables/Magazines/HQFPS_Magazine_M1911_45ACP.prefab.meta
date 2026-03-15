@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d6aa41398a0a204ea5eff4bc955f416
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Magazines/HQFPS_Magazine_M1911_45ACP.prefab
+  uploadId: 760615

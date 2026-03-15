@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c4bd1c8bf6b7374d9d74f818f47a7d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Containers/Empty/HQFPS_PlasticAmmoBox_Empty.prefab
+  uploadId: 760615

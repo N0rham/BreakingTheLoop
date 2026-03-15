@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0f3d0e4ceb74be42af29805f6b6fec8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Resources/Definitions/Item/HQFPS_12
+    Gauge Shell.asset
+  uploadId: 760615

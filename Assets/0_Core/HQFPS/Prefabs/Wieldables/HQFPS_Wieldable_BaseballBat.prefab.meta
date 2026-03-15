@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aeaa58efb2cd3b4f9eb3c478ac15c55
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_BaseballBat.prefab
+  uploadId: 760615

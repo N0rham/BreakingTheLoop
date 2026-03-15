@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 608b75961dde6264288cf796b1447301
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ExteriorPieces/HQFPS_TargetRail.prefab
+  uploadId: 760615

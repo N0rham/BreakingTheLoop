@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9425dac13f75f74d9c2bef07acc17f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_MolotovCocktail.prefab
+  uploadId: 760615

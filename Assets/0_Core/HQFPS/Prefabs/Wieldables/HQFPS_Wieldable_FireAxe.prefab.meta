@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04b5b4bfa62df534ebbdd32f4e5df510
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_FireAxe.prefab
+  uploadId: 760615

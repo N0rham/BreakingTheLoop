@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f71b632ac7718904ba41a4661b931598
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Containers/HQFPS_Pickup_AmmoPack_.357M.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01b7c99c9c97efd4c83168f4321bdcb5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_Revolver.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c43cf3f6f453e44cb2a17a88968374d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_Syringe.prefab
+  uploadId: 760615

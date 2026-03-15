@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c85c619e60001cb449b76bb188b3db63
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Destructables/HQFPS_ExplosiveBarrel_Fragments.prefab
+  uploadId: 760615

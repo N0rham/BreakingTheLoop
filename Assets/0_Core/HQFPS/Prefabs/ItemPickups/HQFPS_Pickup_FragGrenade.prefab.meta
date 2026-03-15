@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc3bd09792f1ffa49b4d60b0129a2cc6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_FragGrenade.prefab
+  uploadId: 760615

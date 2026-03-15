@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 003a6555caec48a418a89995a443a9bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Props/HQFPS_SafetyFirstSign.prefab
+  uploadId: 760615

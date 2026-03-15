@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb06dc87a9672054d826dbc8e2604f0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/InteriorPieces/HQFPS_FireRange_CeillingEdge1.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0dd26d6e73b7a474caa796dcc7f69a36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_R870.prefab
+  uploadId: 760615

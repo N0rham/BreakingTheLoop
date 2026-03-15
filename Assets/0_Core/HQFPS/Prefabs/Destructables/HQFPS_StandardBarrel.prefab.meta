@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6983acc8410b595488559fdfa0f4ecad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Destructables/HQFPS_StandardBarrel.prefab
+  uploadId: 760615

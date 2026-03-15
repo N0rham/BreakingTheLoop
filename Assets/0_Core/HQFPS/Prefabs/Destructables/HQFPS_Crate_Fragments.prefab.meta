@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d39b3fc2e9f2c748a1fc4a71d77d65e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Destructables/HQFPS_Crate_Fragments.prefab
+  uploadId: 760615

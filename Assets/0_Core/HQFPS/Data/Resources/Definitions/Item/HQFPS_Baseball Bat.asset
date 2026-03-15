@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4213430bbd6313b4a89ea1d7e1185c38, type: 3}
+  m_Name: HQFPS_Baseball Bat
+  m_EditorClassIdentifier: 
+  _id: 9764763
+  _parentGroup: {fileID: 11400000, guid: e795e49d036de2c47805aebb271686bb, type: 2}
+  _icon: {fileID: 21300000, guid: 700f064c43c3241409b0536f9cd32137, type: 3}
+  _description: A trusty bat, versatile for defense and handy problem-solving.
+  _longDescription: 'An urban survivor''s choice, the baseball bat is a versatile
+    tool for self-defense and makeshift solutions.
+
+    Ideal for warding off threats
+    and navigating through challenges in a world turned unpredictable.'
+  _pickup: {fileID: 3387406403252811966, guid: 546b0cec3539d8249bc61ad448d49e58, type: 3}
+  _stackPickup: {fileID: 0}
+  _weight: 1.75
+  _stackSize: 1
+  _tag:
+    _value: 6549466
+  _rarity: {fileID: 11400000, guid: 5b78dfb1a8130fe4cab70086731e2ddd, type: 2}
+  _actions: []
+  _properties:
+  - _itemPropertyId: -8792658
+    _useRandomValue: 0
+    _valueRange: {x: 1, y: 0}
+  _data: []
+  references:
+    version: 2
+    RefIds: []

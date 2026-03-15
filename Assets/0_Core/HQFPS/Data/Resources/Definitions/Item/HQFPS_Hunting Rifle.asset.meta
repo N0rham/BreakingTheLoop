@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c08d05034e915c742ae7942f01e060c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Resources/Definitions/Item/HQFPS_Hunting
+    Rifle.asset
+  uploadId: 760615

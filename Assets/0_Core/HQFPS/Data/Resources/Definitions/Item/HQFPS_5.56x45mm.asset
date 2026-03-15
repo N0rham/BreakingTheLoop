@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4213430bbd6313b4a89ea1d7e1185c38, type: 3}
+  m_Name: HQFPS_5.56x45mm
+  m_EditorClassIdentifier: 
+  _id: 5437523
+  _parentGroup: {fileID: 11400000, guid: c1aa81918f326da42acfbaaaab8720e7, type: 2}
+  _icon: {fileID: 21300000, guid: 2734509ab8fcb8b4fb503a367bf0831a, type: 3}
+  _description: 'Enhanced mid-range accuracy. '
+  _longDescription: Enhanced mid-range accuracy. Offering a bit more punch without
+    overwhelming force.
+  _pickup: {fileID: -3483957408972485484, guid: 3f85f2dc625315941bccd6787d79c008, type: 3}
+  _stackPickup: {fileID: 3656851289941040855, guid: 8914ce34c0dcbd540b46d62cb4e07fe3, type: 3}
+  _weight: 0.125
+  _stackSize: 120
+  _tag:
+    _value: 0
+  _rarity: {fileID: 11400000, guid: b3aff7daf0a2c704e8db2d224fcc115f, type: 2}
+  _actions: []
+  _properties: []
+  _data: []
+  references:
+    version: 2
+    RefIds: []

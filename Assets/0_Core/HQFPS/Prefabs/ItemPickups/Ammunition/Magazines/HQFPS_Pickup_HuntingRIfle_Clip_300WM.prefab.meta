@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59e48b234a614f54fa6c149f584f23c2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Magazines/HQFPS_Pickup_HuntingRIfle_Clip_300WM.prefab
+  uploadId: 760615

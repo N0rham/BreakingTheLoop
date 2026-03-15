@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4213430bbd6313b4a89ea1d7e1185c38, type: 3}
+  m_Name: HQFPS_AKM
+  m_EditorClassIdentifier: 
+  _id: 8713849
+  _parentGroup: {fileID: 11400000, guid: 134d0092531e8b44286d27a8134fa323, type: 2}
+  _icon: {fileID: 21300000, guid: ba6df4bfa97c98649b1d35258104d543, type: 3}
+  _description: Reliable assault rifle for powerful and varied engagements.
+  _longDescription: Robust assault rifle for powerful and reliable performance in
+    varied engagements.
+  _pickup: {fileID: 2145468964589415629, guid: e28ed739ad737984bb0a9bfb9cb5143a, type: 3}
+  _stackPickup: {fileID: 0}
+  _weight: 3.8
+  _stackSize: 1
+  _tag:
+    _value: 6549466
+  _rarity: {fileID: 11400000, guid: b3aff7daf0a2c704e8db2d224fcc115f, type: 2}
+  _actions: []
+  _properties:
+  - _itemPropertyId: 1678210
+    _useRandomValue: 0
+    _valueRange: {x: 30, y: 0}
+  - _itemPropertyId: 1166878
+    _useRandomValue: 0
+    _valueRange: {x: 0, y: 0}
+  - _itemPropertyId: -8792658
+    _useRandomValue: 0
+    _valueRange: {x: 1, y: 0}
+  _data: []
+  references:
+    version: 2
+    RefIds: []

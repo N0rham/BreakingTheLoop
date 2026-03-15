@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2794f2b17d4a1a4497b80f5a8e95d07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ShootingPlacePieces/HQFPS_FireRange_NumberSign2.prefab
+  uploadId: 760615

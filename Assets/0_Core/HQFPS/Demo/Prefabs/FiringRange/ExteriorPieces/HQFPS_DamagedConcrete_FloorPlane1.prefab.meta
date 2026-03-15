@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11c64b8ab2f783e42b2feebe25cbc4ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ExteriorPieces/HQFPS_DamagedConcrete_FloorPlane1.prefab
+  uploadId: 760615

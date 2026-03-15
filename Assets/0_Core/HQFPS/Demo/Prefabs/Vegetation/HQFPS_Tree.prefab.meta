@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b34643eb78b286479d9b806e1a9a6a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Vegetation/HQFPS_Tree.prefab
+  uploadId: 760615

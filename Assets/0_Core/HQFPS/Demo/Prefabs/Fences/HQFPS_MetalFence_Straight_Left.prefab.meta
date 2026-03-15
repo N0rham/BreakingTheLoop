@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebec7f35d5610cc4cbb6508233662c7c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Fences/HQFPS_MetalFence_Straight_Left.prefab
+  uploadId: 760615

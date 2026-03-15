@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff834f96869a9324596f198b6af45aae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_HuntingRifle.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98ea97707b2540b47a4de5b471a95747
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Shared/HQFPS_ConeLight.prefab
+  uploadId: 760615

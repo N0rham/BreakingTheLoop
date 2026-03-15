@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b768ffdc6b55d03469bbf888b2dd8413
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Motion/HQFPS_R870.asset
+  uploadId: 760615

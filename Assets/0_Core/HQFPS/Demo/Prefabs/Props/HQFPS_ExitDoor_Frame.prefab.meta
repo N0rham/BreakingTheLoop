@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40bd18bd8b998bb40824b963d547d88f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Props/HQFPS_ExitDoor_Frame.prefab
+  uploadId: 760615

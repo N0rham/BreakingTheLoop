@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37e5345533a413e4fb5bb3b833d4d285
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/Props/HQFPS_RangeTarget.prefab
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9dcb7941007b04c4881ede2dbdd52b8a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_Crossbow.prefab
+  uploadId: 760615

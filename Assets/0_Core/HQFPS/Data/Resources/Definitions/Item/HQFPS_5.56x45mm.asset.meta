@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 493e27c3f6f675a43983bfb2ca05e452
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Data/Resources/Definitions/Item/HQFPS_5.56x45mm.asset
+  uploadId: 760615

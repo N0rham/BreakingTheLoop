@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 221596761da25ab48897b98ae1fb18e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/HQFPS_Wieldable_HuntingRifle.prefab
+  uploadId: 760615

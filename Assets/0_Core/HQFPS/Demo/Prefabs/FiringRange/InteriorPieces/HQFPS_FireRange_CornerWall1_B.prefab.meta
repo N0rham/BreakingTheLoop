@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 114498cddaa05aa4ab3c6898daf3c1a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/InteriorPieces/HQFPS_FireRange_CornerWall1_B.prefab
+  uploadId: 760615

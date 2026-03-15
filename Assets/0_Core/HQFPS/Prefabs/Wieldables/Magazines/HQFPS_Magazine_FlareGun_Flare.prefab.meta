@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89a5a9219d5f4df45a64edb5d33f4d7c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Magazines/HQFPS_Magazine_FlareGun_Flare.prefab
+  uploadId: 760615

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3d24753021bb0bb40b6d95d2409d86a7
+timeCreated: 1519282567
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Scripts/Runtime/FragmentableObject.cs
+  uploadId: 760615

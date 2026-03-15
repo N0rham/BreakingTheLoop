@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1e846af18bfd18499b441dd8d5c9788
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Containers/HQFPS_Pickup_AmmoPack_ShotgunShells.prefab
+  uploadId: 760615

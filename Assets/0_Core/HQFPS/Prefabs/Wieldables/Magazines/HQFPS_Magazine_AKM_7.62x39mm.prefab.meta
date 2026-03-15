@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ecddf0d0d627db45a2cd9d1b34a3cc1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Magazines/HQFPS_Magazine_AKM_7.62x39mm.prefab
+  uploadId: 760615

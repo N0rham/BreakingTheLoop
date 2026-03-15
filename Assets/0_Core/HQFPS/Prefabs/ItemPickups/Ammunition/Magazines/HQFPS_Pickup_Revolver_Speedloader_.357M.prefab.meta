@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cc345e79413a4344b343a4f1cf34893
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Magazines/HQFPS_Pickup_Revolver_Speedloader_.357M.prefab
+  uploadId: 760615

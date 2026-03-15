@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d698fd948299e6c4185790f3369d6abd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Shells/HQFPS_Shell_Flare.prefab
+  uploadId: 760615

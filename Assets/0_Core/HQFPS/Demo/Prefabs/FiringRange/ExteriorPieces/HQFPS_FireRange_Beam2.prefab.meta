@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3cccb3e0e3d8624d98a605846ae6d4e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ExteriorPieces/HQFPS_FireRange_Beam2.prefab
+  uploadId: 760615

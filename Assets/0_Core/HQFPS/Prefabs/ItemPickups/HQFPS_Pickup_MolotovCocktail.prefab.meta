@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e07fa014f8a67ab4cb2240c176d4cbe4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_MolotovCocktail.prefab
+  uploadId: 760615

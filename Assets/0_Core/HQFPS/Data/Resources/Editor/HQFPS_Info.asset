@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1e990187d457d34e94b0f0349a1a2e5, type: 3}
+  m_Name: HQFPS_Info
+  m_EditorClassIdentifier: 
+  _assetName: HQ FPS Weapons
+  _icon: {fileID: 2800000, guid: 4689c688f29cb2448a5f24ec9d702e72, type: 3}
+  _description: 'HQ FPS Weapons contains a lot of modern FPS features
+
+    and an
+    arsenal of fully animated weapons and items.'
+  _priority: 10
+  _versionString: 2.0.3
+  _requiresValidation: 0
+  _scenes:
+  - sceneReference: {fileID: 102900000, guid: 43d0e18391e01924995e0ccacbca0276, type: 3}
+    sceneName: HQFPS_MainMenu
+    scenePath: Assets/PolymindGames/HQFPS/Demo/Scenes/MainMenu/HQFPS_MainMenu.unity
+    buildIndex: 0
+  - sceneReference: {fileID: 102900000, guid: 950887b64125bbd4d90842cdfaa48b4d, type: 3}
+    sceneName: HQFPS_FiringRange
+    scenePath: Assets/PolymindGames/HQFPS/Demo/Scenes/FiringRange/HQFPS_FiringRange.unity
+    buildIndex: 1
+  _storeUrl: https://assetstore.unity.com/packages/templates/systems/hq-fps-weapons-177306
+  _docsUrl: https://polymindgames.gitbook.io/welcome-to-gitbook/qgUktTCVlUDA7CAODZfe
+  _extraSites: []

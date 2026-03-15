@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 542be594aaeb0dd49a5610b1bb71e08c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Magazines/HQFPS_Magazine_Revolver_Speedloader_.357M.prefab
+  uploadId: 760615

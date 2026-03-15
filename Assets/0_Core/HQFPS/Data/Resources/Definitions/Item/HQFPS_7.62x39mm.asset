@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4213430bbd6313b4a89ea1d7e1185c38, type: 3}
+  m_Name: HQFPS_7.62x39mm
+  m_EditorClassIdentifier: 
+  _id: 3131048
+  _parentGroup: {fileID: 11400000, guid: c1aa81918f326da42acfbaaaab8720e7, type: 2}
+  _icon: {fileID: 21300000, guid: f177e8c2cae9a4640978b1610bade597, type: 3}
+  _description: Strong and reliable for mid-range firepower.
+  _longDescription: Common, strong, and reliable ammo for dominating mid-range firepower
+    in your encounters.
+  _pickup: {fileID: -853203220859147417, guid: c8ad16f07e4bfef42801626fd5ad8638, type: 3}
+  _stackPickup: {fileID: 6601484707238515432, guid: 944a0b0633c45d4458bbd6c6b02c84e1, type: 3}
+  _weight: 0.15
+  _stackSize: 120
+  _tag:
+    _value: 0
+  _rarity: {fileID: 11400000, guid: 5b78dfb1a8130fe4cab70086731e2ddd, type: 2}
+  _actions: []
+  _properties: []
+  _data: []
+  references:
+    version: 2
+    RefIds: []

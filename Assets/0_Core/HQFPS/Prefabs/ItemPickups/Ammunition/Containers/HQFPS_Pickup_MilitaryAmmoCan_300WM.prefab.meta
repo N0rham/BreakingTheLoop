@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6ddebf84561ecf438743fead283951a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/Ammunition/Containers/HQFPS_Pickup_MilitaryAmmoCan_300WM.prefab
+  uploadId: 760615

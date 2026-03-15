@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0fa536adc54e8e479ad3a04664a66cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Magazines/HQFPS_Magazine_HuntingRifle_300WM.prefab
+  uploadId: 760615

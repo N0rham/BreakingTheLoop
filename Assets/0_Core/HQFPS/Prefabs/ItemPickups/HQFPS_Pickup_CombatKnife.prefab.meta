@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff9cd81015b2227418d2d385dfde13fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/ItemPickups/HQFPS_Pickup_CombatKnife.prefab
+  uploadId: 760615

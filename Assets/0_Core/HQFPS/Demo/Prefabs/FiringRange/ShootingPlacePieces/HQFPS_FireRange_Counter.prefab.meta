@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f2e581db92bfe247aa7f974d09cc97d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ShootingPlacePieces/HQFPS_FireRange_Counter.prefab
+  uploadId: 760615

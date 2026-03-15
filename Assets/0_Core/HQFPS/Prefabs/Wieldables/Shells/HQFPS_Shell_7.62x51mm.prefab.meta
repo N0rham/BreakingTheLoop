@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1817e6b2c62e9f44a0a926f332b6cfa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Prefabs/Wieldables/Shells/HQFPS_Shell_7.62x51mm.prefab
+  uploadId: 760615

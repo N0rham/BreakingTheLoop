@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2338441ec80cd9e4382cb07d2586841a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Prefabs/FiringRange/ShootingPlacePieces/HQFPS_FireRange_AmmoMachine.prefab
+  uploadId: 760615
