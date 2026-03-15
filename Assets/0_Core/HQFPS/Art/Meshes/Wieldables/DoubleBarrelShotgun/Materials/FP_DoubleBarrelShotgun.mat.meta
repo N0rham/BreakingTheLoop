@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcb790f26cc2e194d8520febf74660ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/DoubleBarrelShotgun/Materials/FP_DoubleBarrelShotgun.mat
+  uploadId: 760615

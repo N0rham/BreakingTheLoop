@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e250b758d8d0e247b9584c0437b4206
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/Crossbow/Materials/Crossbow.mat
+  uploadId: 760615

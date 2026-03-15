@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3cd23314a8d3eb468b421387799da4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/F1/Materials/FP_F1.mat
+  uploadId: 760615
