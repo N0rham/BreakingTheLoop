@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e27a3e2f84809914fa5bf3a7ac14ce9f
+timeCreated: 1473686037
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Art/VFX/DustMoteParticle/HQFPS_DustMoteParticle.mat
+  uploadId: 760615

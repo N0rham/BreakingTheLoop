@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 950887b64125bbd4d90842cdfaa48b4d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Scenes/FiringRange/HQFPS_FiringRange.unity
+  uploadId: 760615

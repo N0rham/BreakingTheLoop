@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10c63f3e690f92a45a25d000619ba3a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Scenes/FiringRange/HQFPS_LightingSettings.lighting
+  uploadId: 760615

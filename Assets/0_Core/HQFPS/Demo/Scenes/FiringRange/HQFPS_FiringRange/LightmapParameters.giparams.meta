@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48c8ed248add5d94aa6b6829e596cb22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Scenes/FiringRange/HQFPS_FiringRange/LightmapParameters.giparams
+  uploadId: 760615
