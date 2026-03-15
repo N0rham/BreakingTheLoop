@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 168e9b8c0c2a8eb44beb9b0712205806
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Art/Models/FiringRange/Materials/Pieces/FiringRange_ConcreteWalls.mat
+  uploadId: 760615

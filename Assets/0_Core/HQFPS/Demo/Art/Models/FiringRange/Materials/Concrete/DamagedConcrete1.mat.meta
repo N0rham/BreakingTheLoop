@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4824a5fb9fa04ee468359e378c150533
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Demo/Art/Models/FiringRange/Materials/Concrete/DamagedConcrete1.mat
+  uploadId: 760615
