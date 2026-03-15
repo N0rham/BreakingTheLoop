@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd587aba83e8ca143b9d12e45e1c0bd3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/UI/SaveSystem/FPS_UI_SaveDisplay.prefab
+  uploadId: 760615

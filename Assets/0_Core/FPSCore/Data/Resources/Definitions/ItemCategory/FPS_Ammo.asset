@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1371f6ac864cf14cb301e0dc955f35c, type: 3}
+  m_Name: FPS_Ammo
+  m_EditorClassIdentifier: 
+  _id: 3040258
+  _icon: {fileID: 21300000, guid: 7fe0d7050a2f82f4c83df49595c00577, type: 3}
+  _members:
+  - {fileID: 11400000, guid: f0f3d0e4ceb74be42af29805f6b6fec8, type: 2}
+  - {fileID: 11400000, guid: b27f3777d927cb644b721e60be617757, type: 2}
+  - {fileID: 11400000, guid: a93280546c037f94f8b0e4576eeeab98, type: 2}
+  - {fileID: 11400000, guid: ee0cc0240af812d478affce3cd98b946, type: 2}
+  - {fileID: 11400000, guid: 493e27c3f6f675a43983bfb2ca05e452, type: 2}
+  - {fileID: 11400000, guid: 748da324db7ecbd439fae5d8c0b8e5b7, type: 2}
+  - {fileID: 11400000, guid: 9830a77fb995fd947aa5d2229227330e, type: 2}
+  - {fileID: 11400000, guid: cc708edcca918b646bfbc6aa3d5e95ec, type: 2}
+  - {fileID: 11400000, guid: 488aa03bdde082947962202d90cb9acf, type: 2}
+  _defaultTag:
+    _value: 0
+  _baseActions:
+  - {fileID: 11400000, guid: f821f82ac64f9d042a2ae2469899cf10, type: 2}

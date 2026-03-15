@@ -1,0 +1,63 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Unity package cache
+Packages/packages-lock.json.meta
+
+# Oversized third-party integration exports
+Assets/0_Core/HQFPS/Integrations/BIRP/*.unitypackage
+Assets/0_Core/HQFPS/Integrations/BIRP/*.unitypackage.meta
+Assets/0_Core/HQFPS/Integrations/HDRP/*.unitypackage
+Assets/0_Core/HQFPS/Integrations/HDRP/*.unitypackage.meta
+Assets/0_Core/HQFPS/Integrations/URP/*.unitypackage
+Assets/0_Core/HQFPS/Integrations/URP/*.unitypackage.meta
+
+# Asset import pipeline
+Assets/AssetStoreTools*
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity auto-generated files
+sysinfo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider
+*.sln.iml
+
+# Generated test results
+TestResults/
+
+# Addressables build output
+ServerData/
+
+# Crash reports
+crashlytics-build.properties

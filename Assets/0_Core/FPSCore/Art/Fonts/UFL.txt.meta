@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 742734fadd3fbd546910d1a3e4d6f207
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/Fonts/UFL.txt
+  uploadId: 760615

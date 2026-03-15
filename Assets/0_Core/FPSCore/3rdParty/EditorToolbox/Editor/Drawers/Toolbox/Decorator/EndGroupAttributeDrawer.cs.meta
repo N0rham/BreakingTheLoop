@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0854ff9ba0cc02c4fb8511bde930767f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/3rdParty/EditorToolbox/Editor/Drawers/Toolbox/Decorator/EndGroupAttributeDrawer.cs
+  uploadId: 760615

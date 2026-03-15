@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3711b3b9ac4de9b4aa23f46ff642ce80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/VFX/Wood/PlasticChunks.mat
+  uploadId: 760615

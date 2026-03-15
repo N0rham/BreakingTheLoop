@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b01dcab7d915426689fde5acb14f611d
+timeCreated: 1734630969
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/SaveSystem/AutoSaveHandler.cs
+  uploadId: 760615

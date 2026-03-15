@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc97f8d8a14462744be6920b4bb92ecb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/3rdParty/EditorToolbox/Editor/Drawers/Regular/PrefabObjectOnlyAttributeDrawer.cs
+  uploadId: 760615

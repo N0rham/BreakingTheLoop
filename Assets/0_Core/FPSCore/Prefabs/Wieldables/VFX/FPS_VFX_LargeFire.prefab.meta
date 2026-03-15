@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a08159446b4ec684fb87dfe4a5ed06d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Wieldables/VFX/FPS_VFX_LargeFire.prefab
+  uploadId: 760615

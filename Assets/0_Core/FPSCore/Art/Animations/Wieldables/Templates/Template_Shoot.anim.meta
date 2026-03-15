@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40ac6268f5185674e8efb76cb3242b46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Art/Animations/Wieldables/Templates/Template_Shoot.anim
+  uploadId: 760615

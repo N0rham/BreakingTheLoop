@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2e3bde6ea9844ab0b688f4c7422627af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/Motion/Tweening/Tweens/QuaternionTween.cs
+  uploadId: 760615

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2895a8843bd5c4346925424f838e9085
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/3rdParty/EditorToolbox/Editor/Drawers/Toolbox/Decorator/SpaceAreaAttributeDrawer.cs
+  uploadId: 760615

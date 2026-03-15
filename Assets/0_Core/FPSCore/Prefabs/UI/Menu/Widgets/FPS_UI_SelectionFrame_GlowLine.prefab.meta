@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52747f7e1dad74a4c9b5e0a7327a4f65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/UI/Menu/Widgets/FPS_UI_SelectionFrame_GlowLine.prefab
+  uploadId: 760615

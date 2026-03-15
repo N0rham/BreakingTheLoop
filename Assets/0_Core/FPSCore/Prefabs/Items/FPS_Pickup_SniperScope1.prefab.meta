@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b13ac0f4caf42194590a800191d5684e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Items/FPS_Pickup_SniperScope1.prefab
+  uploadId: 760615

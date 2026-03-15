@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d86ab291bc81ec04095cd86009f58c29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Data/Resources/Definitions/ItemProperty/FPS_Ammo
+    In Magazine.asset
+  uploadId: 760615

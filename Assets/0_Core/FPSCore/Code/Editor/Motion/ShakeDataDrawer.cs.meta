@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9a0a5438bdee8724c915085ef5e29d90
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Editor/Motion/ShakeDataDrawer.cs
+  uploadId: 760615

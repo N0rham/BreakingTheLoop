@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3e253461bf084c6289b1fc7c57281d15
+timeCreated: 1739970075
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/Pooling/IPool.cs
+  uploadId: 760615

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f70c8e99499396e45a2d85cdbfe1b5ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Data/Inventory/RarityLevels/FPS_RarityLevel_Epic.asset
+  uploadId: 760615

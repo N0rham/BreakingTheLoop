@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 018cf06666c49ff4cb9ff41dedb94983
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Integrations/HDRP/FPS - HDRP.unitypackage
+  uploadId: 760615

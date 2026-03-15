@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d57b05c49f534186999015b72fa1fbe0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/Wieldables/Components/IWieldableArmsHandlerCC.cs
+  uploadId: 760615

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a678961a00c14f3064328cdf5867e29
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/3rdParty/OdinSerializer/Version.txt
+  uploadId: 760615

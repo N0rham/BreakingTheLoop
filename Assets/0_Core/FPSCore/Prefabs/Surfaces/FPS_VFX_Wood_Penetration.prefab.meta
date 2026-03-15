@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed73b04b299849840aa8e5dd1dcd2987
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Surfaces/FPS_VFX_Wood_Penetration.prefab
+  uploadId: 760615

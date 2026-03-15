@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ab4dc47677fe4d499ddef25e8dc9540a
+timeCreated: 1739524737
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/Motion/Tweening/TweenManager.cs
+  uploadId: 760615

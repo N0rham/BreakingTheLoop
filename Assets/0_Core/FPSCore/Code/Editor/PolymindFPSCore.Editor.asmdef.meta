@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca94f1952aa51c342b67d0a26f6cf14b
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Editor/PolymindFPSCore.Editor.asmdef
+  uploadId: 760615

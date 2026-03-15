@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47d82999ddfe9fe43994e4fecdc27027
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Data/Motion/Shakes/FPS_Shake_Camera_Explosion.asset
+  uploadId: 760615

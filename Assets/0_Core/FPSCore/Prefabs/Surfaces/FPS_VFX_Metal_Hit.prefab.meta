@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a7529d00e1918e4dab1dc05b50a16da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/Surfaces/FPS_VFX_Metal_Hit.prefab
+  uploadId: 760615

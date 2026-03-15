@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64fe496a8b5c7f34b8af6ab2385a8103
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Code/Runtime/UI/Wieldables/Crosshairs/BasicCrosshairUI.cs
+  uploadId: 760615

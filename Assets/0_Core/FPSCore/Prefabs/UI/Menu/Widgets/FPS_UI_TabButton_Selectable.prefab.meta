@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0caef55c5a2a084c98a4d115eaabd23
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/FPSCore/Prefabs/UI/Menu/Widgets/FPS_UI_TabButton_Selectable.prefab
+  uploadId: 760615
