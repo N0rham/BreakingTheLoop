@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcfb0241e30c3c6498a837c934131727
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Wieldables/BaseballBat/Materials/FP_BaseballBat.mat
+  uploadId: 760615
