@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b9948e2dc8d4dc49b75f3fbb361887b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305942
+  packageName: HQFPS - High Quality FPS Weapons
+  packageVersion: 2.0.3
+  assetPath: Assets/PolymindGames/HQFPS/Art/Meshes/Destructibles/Barrels/Materials/Barrels.mat
+  uploadId: 760615
