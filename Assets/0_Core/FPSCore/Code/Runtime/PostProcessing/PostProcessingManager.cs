@@ -78,14 +78,64 @@ namespace PolymindGames.PostProcessing
         {
             if (TryGetAnimPlayer(out var animPlayer))
             {
-                if (ActiveVolume == null)
+                if (!TryResolveActiveVolume())
                 {
-                    Debug.LogWarning("No active volume active in the scene.");
+                    Debug.LogWarning("No active post-processing volume found in the loaded scene. Add and enable a GlobalVolume component on a scene object with a Volume component.");
+                    return;
+                }
+
+                if (ActiveVolume.profile == null)
+                {
+                    Debug.LogWarning("Active post-processing volume has no runtime profile assigned.");
                     return;
                 }
 
                 animPlayer.Play(behaviour, animProfile, ActiveVolume.profile, durationMod, useUnscaledTime);
             }
+        }
+
+        private bool TryResolveActiveVolume()
+        {
+            if (ActiveVolume != null)
+                return true;
+
+            // Preferred path: use the Polymind bridge component that explicitly registers a runtime volume.
+#if UNITY_2023_1_OR_NEWER
+            var globalVolumes = FindObjectsByType<GlobalVolume>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
+#else
+            var globalVolumes = FindObjectsOfType<GlobalVolume>();
+#endif
+
+            foreach (var globalVolume in globalVolumes)
+            {
+                if (!globalVolume.isActiveAndEnabled)
+                    continue;
+
+                var volume = globalVolume.GetComponent<Volume>();
+                if (volume != null && volume.isActiveAndEnabled)
+                {
+                    ActiveVolume = volume;
+                    return true;
+                }
+            }
+
+            // Fallback path: pick the first enabled global scene volume.
+#if UNITY_2023_1_OR_NEWER
+            var volumes = FindObjectsByType<Volume>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
+#else
+            var volumes = FindObjectsOfType<Volume>();
+#endif
+
+            foreach (var volume in volumes)
+            {
+                if (volume != null && volume.isActiveAndEnabled && volume.isGlobal)
+                {
+                    ActiveVolume = volume;
+                    return true;
+                }
+            }
+
+            return false;
         }
 
         private bool TryGetAnimPlayerFor(MonoBehaviour behaviour, VolumeAnimationProfile profile, out VolumeAnimPlayer player)

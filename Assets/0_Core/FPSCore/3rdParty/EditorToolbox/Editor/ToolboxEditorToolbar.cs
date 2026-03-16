@@ -26,7 +26,14 @@ namespace Toolbox.Editor
     {
         static ToolboxEditorToolbar()
         {
+#if UNITY_6000_0_OR_NEWER
+            // Unity 6 warns against unsupported main toolbar injection done via reflection.
+            // Keep this extension disabled on 6000+ to avoid warning spam and future breakages.
+            IsToolbarAllowed = false;
+            return;
+#else
             EditorCoroutineUtility.StartCoroutineOwnerless(Initialize());
+#endif
         }
 
         private static readonly Type containterType = typeof(IMGUIContainer);

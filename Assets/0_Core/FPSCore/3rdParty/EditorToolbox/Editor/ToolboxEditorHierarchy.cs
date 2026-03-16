@@ -45,8 +45,8 @@ namespace Toolbox.Editor
                 return;
             }
 
-            //use Unity's internal method to determinate the proper GameObject instance
-            var gameObject = EditorUtility.InstanceIDToObject(instanceId) as GameObject;
+            // Use a Unity-version-safe lookup for the hierarchy item object.
+            var gameObject = GetHierarchyItemGameObject(instanceId);
             if (gameObject)
             {
                 var type = GetLabelType(gameObject, out var label);
@@ -69,6 +69,15 @@ namespace Toolbox.Editor
                 DrawSceneHeaderLabel(rect);
             }
         }
+
+            private static GameObject GetHierarchyItemGameObject(int instanceId)
+            {
+        #if UNITY_6000_0_OR_NEWER
+                return EditorUtility.EntityIdToObject(instanceId) as GameObject;
+        #else
+                return EditorUtility.InstanceIDToObject(instanceId) as GameObject;
+        #endif
+            }
 
         /// <summary>
         /// Creates optional information about selected objects using the internal <see cref="Selection"/> class.
