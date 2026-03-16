@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   showEditor: 1
   showEffectControls: 0
-  showCloudControls: 0
+  showCloudControls: 1
   showFlatCloudControls: 0
   showFogControls: 0
   showSkyControls: 0
