@@ -50,9 +50,15 @@ namespace PolymindGames.WieldableSystem
         /// </summary>
         private void FireShot()
         {
-            RaiseShootEvent();
-            _nextAllowedShotTime = Time.time + _shotCooldown;
-            _bufferExpiryTime = 0f;
+            try
+            {
+                RaiseShootEvent();
+            }
+            finally
+            {
+                _nextAllowedShotTime = Time.time + _shotCooldown;
+                _bufferExpiryTime = 0f;
+            }
         }
     }
 }

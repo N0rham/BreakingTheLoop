@@ -25,12 +25,19 @@ namespace PolymindGames.WieldableSystem
             if (Time.time < _shootTimer)
                 return;
 
-            if (Firearm.ReloadableMagazine.IsReloading || Firearm.ReloadableMagazine.IsMagazineEmpty())
-                RaiseShootEvent();
-            else
-                StartCoroutine(DoBurst());
+            float nextShootTime = Time.time + _burstDuration + _burstPause;
 
-            _shootTimer = Time.time + _burstDuration + _burstPause;
+            try
+            {
+                if (Firearm.ReloadableMagazine.IsReloading || Firearm.ReloadableMagazine.IsMagazineEmpty())
+                    RaiseShootEvent();
+                else
+                    StartCoroutine(DoBurst());
+            }
+            finally
+            {
+                _shootTimer = nextShootTime;
+            }
         }
 
         private IEnumerator DoBurst()

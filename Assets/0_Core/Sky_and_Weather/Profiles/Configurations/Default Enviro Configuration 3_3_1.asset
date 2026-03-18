@@ -131,9 +131,9 @@ MonoBehaviour:
   preset: {fileID: 11400000, guid: 0fcdd472bd6a8ec429fc1e9bc978c4fa, type: 2}
   showCirrusCloudsControls: 0
   show2DCloudsControls: 0
-  cloudFlatBaseAnim: {x: 0.54771245, y: -0.8553722}
-  cloudFlatDetailAnim: {x: 0.5236905, y: 0.24144389}
-  cirrusAnim: {x: 0.11515003, y: -0.29246727}
+  cloudFlatBaseAnim: {x: -0.27199376, y: -0.035490338}
+  cloudFlatDetailAnim: {x: 0.4200784, y: 0.34879205}
+  cirrusAnim: {x: -0.29470667, y: 0.117375955}
 --- !u!114 &-6613759932185320841
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -214,7 +214,7 @@ MonoBehaviour:
     audioTransitionSpeed: 1
   preset: {fileID: 11400000, guid: 8c4e279017d5e44458e3e4663b6ab460, type: 2}
   targetWeatherType: {fileID: 11400000, guid: 6c589d06d1746d04a864437f71d0cc30, type: 2}
-  weatherBlendProgress: 0
+  weatherBlendProgress: 1
   globalAutoWeatherChange: 1
   triggerCollider: {fileID: 0}
   triggerRB: {fileID: 0}
@@ -1510,13 +1510,13 @@ MonoBehaviour:
   showSaveLoad: 0
   active: 1
   Settings:
-    simulate: 1
+    simulate: 0
     secSerial: 0
     minSerial: 0
     hourSerial: 17
     daySerial: 15
     monthSerial: 3
-    yearSerial: 2027
+    yearSerial: 2026
     timeOfDay: 17
     latitude: 0
     longitude: 0
@@ -1530,7 +1530,7 @@ MonoBehaviour:
     customSunOffset: -8
     customSunRotation: 88
   preset: {fileID: 11400000, guid: 82acdd278499d74498ad37dd931734d1, type: 2}
-  showTimeControls: 0
+  showTimeControls: 1
   showLocationControls: 0
   LST: 309.7025
 --- !u!114 &1310742743334959994
@@ -1691,7 +1691,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    temperature: 8.049148
+    temperature: 8.049251
     temperatureWeatherMod: 0
     temperatureCustomMod: 0
     temperatureChangingSpeed: 0.1
@@ -2220,9 +2220,9 @@ MonoBehaviour:
   showDensityControls: 0
   showTextureControls: 0
   showWindControls: 0
-  cloudAnimLayer1: {x: 0.8354891, y: 0.7682674, z: -0.57153434}
+  cloudAnimLayer1: {x: 0.7354682, y: 0.8717019, z: -0.47043186}
   cloudAnimLayer2: {x: -0.4793451, y: 0.47841242, z: 0.015471124}
-  cloudAnimNonScaledLayer1: {x: -0.03603602, y: -2.4124472, z: -67.95487}
+  cloudAnimNonScaledLayer1: {x: 0.09117676, y: -2.5395892, z: -68.663826}
   cloudAnimNonScaledLayer2: {x: -0.001515836, y: 0.0009908647, z: -0.28406617}
   weatherMap: {fileID: 0}
 --- !u!114 &4011421771873438716
@@ -2375,7 +2375,7 @@ MonoBehaviour:
     fogMaxOpacity: 1
     startDistance: 0.01
     fogColorBlend: 0.5
-    fogColorMod: {r: 1, g: 1, b: 1, a: 1}
+    fogColorMod: {r: 0.19842473, g: 0.34691393, b: 0.46226418, a: 1}
     blockScattering: 1
     ambientColorGradient:
       serializedVersion: 2
@@ -2447,6 +2447,15 @@ MonoBehaviour:
   showVolumetricsControls: 1
   showUnityFogControls: 0
   fogLights:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}

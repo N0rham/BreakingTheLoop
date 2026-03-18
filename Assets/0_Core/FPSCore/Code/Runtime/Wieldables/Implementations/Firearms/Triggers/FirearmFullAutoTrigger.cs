@@ -29,8 +29,16 @@ namespace PolymindGames.WieldableSystem
         /// </summary>
         private void FireShot()
         {
-            RaiseShootEvent();
-            _nextAllowedShotTime = Time.time + 60f / _roundsPerMinute;
+            float shotCooldown = 60f / Mathf.Max(_roundsPerMinute, 1);
+
+            try
+            {
+                RaiseShootEvent();
+            }
+            finally
+            {
+                _nextAllowedShotTime = Time.time + shotCooldown;
+            }
         }
     }
 }
