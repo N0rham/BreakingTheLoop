@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1483ba626a8ed6645b33082365db3868
+timeCreated: 1507907423
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/UI/Prefabs/RPMGaugeAnalog.prefab
+  uploadId: 762324

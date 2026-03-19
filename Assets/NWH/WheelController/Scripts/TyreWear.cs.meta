@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6df32337e1fe37642b2879e2b8da1c2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/WheelController/Scripts/TyreWear.cs
+  uploadId: 762324

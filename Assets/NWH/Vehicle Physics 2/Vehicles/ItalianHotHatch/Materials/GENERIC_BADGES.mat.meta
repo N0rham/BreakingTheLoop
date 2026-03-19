@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b297daef0f7545a42939c2398fd92c07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/ItalianHotHatch/Materials/GENERIC_BADGES.mat
+  uploadId: 762324

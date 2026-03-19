@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 677b869f0532cb04da9d5dbba96275a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/RocketCarrier/DashInstruments
+    Variant.prefab
+  uploadId: 762324

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3837629f4ca6cc4a9418851242b56f2
+timeCreated: 1459371575
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Euro Truck by GR3D/GR3D 010416TRUK/Mesh/Materials/010416TRUK-reflective.mat
+  uploadId: 762324

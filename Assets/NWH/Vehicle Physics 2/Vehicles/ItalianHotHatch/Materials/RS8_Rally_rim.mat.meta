@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d8e0915f78bd14a8edef4fe22e62ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/ItalianHotHatch/Materials/RS8_Rally_rim.mat
+  uploadId: 762324

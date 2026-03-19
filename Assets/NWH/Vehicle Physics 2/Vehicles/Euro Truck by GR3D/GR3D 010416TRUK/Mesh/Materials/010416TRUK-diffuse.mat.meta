@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76a5d85f005892148af2881b4028c252
+timeCreated: 1459371561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Euro Truck by GR3D/GR3D 010416TRUK/Mesh/Materials/010416TRUK-diffuse.mat
+  uploadId: 762324

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 425b1e13d3c65034da2d823d8cca130b
+timeCreated: 1459371517
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Euro Truck by GR3D/GR3D 010416TRUK/Mesh/Materials/license
+    plate.mat
+  uploadId: 762324

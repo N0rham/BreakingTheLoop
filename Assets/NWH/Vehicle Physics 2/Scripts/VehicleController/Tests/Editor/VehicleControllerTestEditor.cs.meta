@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0d45991bb7be48c9be075695cb8c7668
+timeCreated: 1581612842
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Tests/Editor/VehicleControllerTestEditor.cs
+  uploadId: 762324

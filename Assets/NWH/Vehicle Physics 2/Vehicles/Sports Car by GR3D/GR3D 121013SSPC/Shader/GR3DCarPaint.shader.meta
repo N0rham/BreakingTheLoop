@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 662ac1c9d33b0ad4dbfe9f1d4eaf7ce0
+timeCreated: 1490303172
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Sports Car by GR3D/GR3D 121013SSPC/Shader/GR3DCarPaint.shader
+  uploadId: 762324

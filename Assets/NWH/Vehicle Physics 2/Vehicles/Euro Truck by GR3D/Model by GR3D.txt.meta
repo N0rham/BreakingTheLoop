@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e737b33b06dfc174bb9f3c21f5a64d94
+timeCreated: 1518000793
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Euro Truck by GR3D/Model by GR3D.txt
+  uploadId: 762324

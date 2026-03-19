@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a9fcafb36e047440996b9ee4fdbc14a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Niva/Niva RuntimeScriptInitializationTest.prefab
+  uploadId: 762324

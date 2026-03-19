@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d59985b42f140cc46b1d1fedec9e54a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/State/LODs/LOD2.asset
+  uploadId: 762324

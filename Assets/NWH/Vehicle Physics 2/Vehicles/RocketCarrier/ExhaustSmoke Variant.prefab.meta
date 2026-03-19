@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5153beaf619d13447a55b38b032e0e6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/RocketCarrier/ExhaustSmoke Variant.prefab
+  uploadId: 762324

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdec479c4369cc6409a5e143351ec6ef
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/WheelController/__ASSEMBLY_DEFINITIONS_README__.txt
+  uploadId: 762324

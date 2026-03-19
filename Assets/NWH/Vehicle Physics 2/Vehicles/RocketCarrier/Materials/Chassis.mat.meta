@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e41819d6cc661424daf8f9f1e864941c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/RocketCarrier/Materials/Chassis.mat
+  uploadId: 762324

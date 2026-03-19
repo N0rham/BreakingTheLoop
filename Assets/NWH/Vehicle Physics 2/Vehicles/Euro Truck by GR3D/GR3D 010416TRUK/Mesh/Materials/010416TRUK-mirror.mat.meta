@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07e5bae618374d7429e40620198afb46
+timeCreated: 1459371561
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Euro Truck by GR3D/GR3D 010416TRUK/Mesh/Materials/010416TRUK-mirror.mat
+  uploadId: 762324

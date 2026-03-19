@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ade337ea0c4b3514e9b248ea456d2b60
+timeCreated: 1518257818
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Vehicles/Sports Car by GR3D/EULA.txt
+  uploadId: 762324
