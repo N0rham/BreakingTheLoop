@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 34b51e6bc0d3493cbab61632bb388338
+timeCreated: 1607279175
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/Utility/AnimationCurveExtensions.cs
+  uploadId: 762324

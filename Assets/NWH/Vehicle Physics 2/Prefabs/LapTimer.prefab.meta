@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28f2b12a57a1ec943b924640e226396c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Prefabs/LapTimer.prefab
+  uploadId: 762324

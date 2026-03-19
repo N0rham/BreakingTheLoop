@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2834488dcedb424da258ae878d0384d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Modules/Aerodynamics/AerodynamicsModule.cs
+  uploadId: 762324

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 499e97cca09bee0488ea609c8f19cf94
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/__Scenes/NVP2 Main Demo/Props/Banner/BannerWC3D.prefab
+  uploadId: 762324

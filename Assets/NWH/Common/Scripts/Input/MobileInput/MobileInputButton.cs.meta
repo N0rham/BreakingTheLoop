@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d2117e63fb06445ababc499401d5c062
+timeCreated: 1593369326
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/Input/MobileInput/MobileInputButton.cs
+  uploadId: 762324

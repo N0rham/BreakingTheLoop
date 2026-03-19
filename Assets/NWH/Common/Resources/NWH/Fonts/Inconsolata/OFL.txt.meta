@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b71cfaef7517a5409d992f035d87a4b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Resources/NWH/Fonts/Inconsolata/OFL.txt
+  uploadId: 762324

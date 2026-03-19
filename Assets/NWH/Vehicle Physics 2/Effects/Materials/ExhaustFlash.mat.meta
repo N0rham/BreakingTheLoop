@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f926ff9f9de023d42aa11064d7ce2d80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Effects/Materials/ExhaustFlash.mat
+  uploadId: 762324

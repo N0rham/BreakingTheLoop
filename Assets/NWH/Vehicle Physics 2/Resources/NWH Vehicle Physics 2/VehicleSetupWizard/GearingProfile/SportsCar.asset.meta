@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05defac16f97b594e9f680ab3cdae797
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Resources/NWH Vehicle Physics 2/VehicleSetupWizard/GearingProfile/SportsCar.asset
+  uploadId: 762324

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d43fdf76272def940b878508ff66406c
+timeCreated: 1508858355
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Effects/Prefabs/SurfaceDust.prefab
+  uploadId: 762324

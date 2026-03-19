@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26c0e5b278c2dde45b01e3c71811c0d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Prefabs/DemoUICanvas.prefab
+  uploadId: 762324

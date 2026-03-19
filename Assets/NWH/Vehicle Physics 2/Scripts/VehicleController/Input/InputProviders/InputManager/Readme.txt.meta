@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38f25bb619e5eca4ab1c636bb7623e32
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Input/InputProviders/InputManager/Readme.txt
+  uploadId: 762324

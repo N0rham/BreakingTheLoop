@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6dfca2d508674fdf85ccdb9cc079fb67
+timeCreated: 1583501524
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/ComponentNUIPropertyDrawer.cs
+  uploadId: 762324

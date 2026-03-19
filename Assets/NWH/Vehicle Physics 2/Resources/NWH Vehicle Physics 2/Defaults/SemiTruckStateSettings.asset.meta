@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d9e5d6200edce347b69ab11095c8b9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Resources/NWH Vehicle Physics 2/Defaults/SemiTruckStateSettings.asset
+  uploadId: 762324

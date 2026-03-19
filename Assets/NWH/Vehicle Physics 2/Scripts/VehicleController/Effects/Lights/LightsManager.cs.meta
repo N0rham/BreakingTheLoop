@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fa9a441b911de5c4a89c7ce6e60cbf3d
+timeCreated: 1509296875
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Effects/Lights/LightsManager.cs
+  uploadId: 762324

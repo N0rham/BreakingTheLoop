@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcedab31055184a4a98d1c3f70cb28be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/Demo/VehicleOverview/WheelGroup.prefab
+  uploadId: 762324

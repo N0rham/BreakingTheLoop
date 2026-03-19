@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7caca42bb1163c74e986c6ddb62c053a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/SetupWizard/Presets/OffRoadPreset.asset
+  uploadId: 762324

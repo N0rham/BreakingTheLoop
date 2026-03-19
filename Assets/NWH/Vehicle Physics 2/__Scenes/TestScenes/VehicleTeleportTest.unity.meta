@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c8167c27891d464d90beecbd5d2b61a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/__Scenes/TestScenes/VehicleTeleportTest.unity
+  uploadId: 762324

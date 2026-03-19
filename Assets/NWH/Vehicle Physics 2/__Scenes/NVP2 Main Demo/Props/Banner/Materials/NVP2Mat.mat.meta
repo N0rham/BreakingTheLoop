@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a140e95c3d8b89469c48db9751d3d4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/__Scenes/NVP2 Main Demo/Props/Banner/Materials/NVP2Mat.mat
+  uploadId: 762324

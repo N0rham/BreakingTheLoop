@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c2188acba2e5ef4493c200b400dd3d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Powertrain/DifferentialComponent.cs
+  uploadId: 762324

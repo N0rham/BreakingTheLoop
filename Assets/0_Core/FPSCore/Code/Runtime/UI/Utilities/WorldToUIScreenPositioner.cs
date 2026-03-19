@@ -57,6 +57,7 @@ namespace PolymindGames.UserInterface
 
         private RectTransform _rectTransformParent;
         private RectTransform _rectTransform;
+        private Canvas _parentCanvas;
         private Camera _mainCamera;
         private float _disableTimer;
         private Vector3 _startLerpPosition = Vector3.zero;
@@ -72,9 +73,9 @@ namespace PolymindGames.UserInterface
         public void SetTargetTransform(Transform target, Vector3 offset = default(Vector3))
         {
             _targetingMode = TargetingMode.FollowTransform;
-            _mainCamera = UnityUtility.CachedMainCamera;
+            RefreshMainCamera();
             _targetTransform = target;
-            
+
             if (target != null)
             {
                 _targetPosition = offset;
@@ -94,7 +95,7 @@ namespace PolymindGames.UserInterface
         public void SetTargetPosition(Vector3? target)
         {
             _targetingMode = TargetingMode.FollowPosition;
-            _mainCamera = UnityUtility.CachedMainCamera;
+            RefreshMainCamera();
 
             if (target.HasValue)
             {
@@ -115,7 +116,8 @@ namespace PolymindGames.UserInterface
         {
             _rectTransform = (RectTransform)transform;
             _rectTransformParent = (RectTransform)_rectTransform.parent;
-            _mainCamera = UnityUtility.CachedMainCamera;
+            _parentCanvas = GetComponentInParent<Canvas>();
+            RefreshMainCamera();
             enabled = false;
         }
 
@@ -129,7 +131,8 @@ namespace PolymindGames.UserInterface
                 enabled = false;
                 return;
             }
-            
+
+            RefreshMainCamera();
             CalculateTransformTargets();
         }
 
@@ -181,12 +184,20 @@ namespace PolymindGames.UserInterface
         /// </summary>
         private void ApplyTransform(Vector3 position, Quaternion rotation, float scale)
         {
+            if (_mainCamera == null)
+                return;
+
             if ((_updateMode & UpdateMode.UpdatePosition) != 0)
             {
-                Vector2 screenPosition = _mainCamera.WorldToScreenPoint(position) + _offset;
-                if (RectTransformUtility.ScreenPointToLocalPointInRectangle(_rectTransformParent, screenPosition, null, out Vector2 localPosition))
+                Vector3 screenPosition3D = _mainCamera.WorldToScreenPoint(position);
+                if (screenPosition3D.z > 0f)
                 {
-                    _rectTransform.anchoredPosition = localPosition;
+                    Vector2 screenPosition = (Vector2)screenPosition3D + (Vector2)_offset;
+                    Camera canvasCamera = GetCanvasCamera();
+                    if (RectTransformUtility.ScreenPointToLocalPointInRectangle(_rectTransformParent, screenPosition, canvasCamera, out Vector2 localPosition))
+                    {
+                        _rectTransform.anchoredPosition = localPosition;
+                    }
                 }
             }
 
@@ -215,6 +226,9 @@ namespace PolymindGames.UserInterface
         /// </summary>
         private Quaternion GetTargetRotation(Vector3 worldPosition)
         {
+            if (_mainCamera == null)
+                return _rectTransform.rotation;
+
             Vector3 directionToCamera = (_mainCamera.transform.position - worldPosition).normalized;
             return Quaternion.LookRotation(directionToCamera, Vector3.up);
         }
@@ -224,8 +238,30 @@ namespace PolymindGames.UserInterface
         /// </summary>
         private float GetTargetScale(Vector3 worldPosition)
         {
+            if (_mainCamera == null)
+                return 1f;
+
             float distanceToCamera = Vector3.Distance(_mainCamera.transform.position, worldPosition);
             return Mathf.Lerp(_maxScale, _minScale, distanceToCamera / _referenceDistance);
+        }
+
+        private void RefreshMainCamera()
+        {
+            Camera cameraMain = Camera.main;
+            if (cameraMain != null)
+                _mainCamera = cameraMain;
+            else if (_mainCamera == null)
+                _mainCamera = UnityUtility.CachedMainCamera;
+        }
+
+        private Camera GetCanvasCamera()
+        {
+            if (_parentCanvas == null)
+                return null;
+
+            return _parentCanvas.renderMode == RenderMode.ScreenSpaceOverlay
+                ? null
+                : (_parentCanvas.worldCamera != null ? _parentCanvas.worldCamera : _mainCamera);
         }
 
         #region Internal Types

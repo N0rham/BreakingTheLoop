@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a3d7462a39d468281892f29f24f478e
+timeCreated: 1609878311
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/CoM/IMassAffector.cs
+  uploadId: 762324

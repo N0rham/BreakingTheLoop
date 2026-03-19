@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a2a00a35100586498c65bdab94eef09
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Powertrain/GearingProfiles/LowGearingProfile.asset
+  uploadId: 762324

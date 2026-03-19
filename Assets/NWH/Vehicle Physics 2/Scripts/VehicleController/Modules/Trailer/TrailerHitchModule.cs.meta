@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8b8a9c34cee1ba449a21f4dd8eab056f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Scripts/VehicleController/Modules/Trailer/TrailerHitchModule.cs
+  uploadId: 762324

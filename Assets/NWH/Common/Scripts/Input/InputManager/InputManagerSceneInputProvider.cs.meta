@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ec707ef612184d5e9a0dfbf4bdba1e7d
+timeCreated: 1593368891
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/Input/InputManager/InputManagerSceneInputProvider.cs
+  uploadId: 762324

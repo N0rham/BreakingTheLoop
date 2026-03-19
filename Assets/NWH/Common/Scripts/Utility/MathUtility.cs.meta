@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 877cec20fa9639c46973b34a944dd302
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/Utility/MathUtility.cs
+  uploadId: 762324

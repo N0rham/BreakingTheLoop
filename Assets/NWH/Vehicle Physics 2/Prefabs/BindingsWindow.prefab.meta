@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c632d2c6a1444b418a154c7753b02cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Prefabs/BindingsWindow.prefab
+  uploadId: 762324

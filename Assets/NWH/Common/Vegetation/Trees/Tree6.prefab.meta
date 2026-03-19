@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5460fbc91c5f044e9906d6b1c84c093
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Vegetation/Trees/Tree6.prefab
+  uploadId: 762324

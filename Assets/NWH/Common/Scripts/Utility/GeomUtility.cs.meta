@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: beed53cc984d46af9792ca3197ced971
+timeCreated: 1614097334
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/Utility/GeomUtility.cs
+  uploadId: 762324

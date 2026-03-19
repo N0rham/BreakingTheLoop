@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91a57ceec8c0b1841b6f9f14af770eb0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Vehicle Physics 2/Prefabs/SettingPrefab.prefab
+  uploadId: 762324

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c76e28da8ce572043b1fb2da95817e18
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166252
+  packageName: NWH Vehicle Physics 2
+  packageVersion: 13.6
+  assetPath: Assets/NWH/Common/Scripts/NWH.Common.asmdef
+  uploadId: 762324
